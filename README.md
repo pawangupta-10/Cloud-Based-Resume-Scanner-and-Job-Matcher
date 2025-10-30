@@ -6,7 +6,7 @@ The system uses **AWS Lambda** for serverless compute, **API Gateway** for API m
 ---
 
 ## 🎥 Project Demo
-▶️ **[Watch Cloud_Resume_Scanner_AWS_Demo](https://drive.google.com/file/d/1nlVRsgz6WCLCVUy9FdGVJDmDEcE6pvrk/view?usp=sharing)**
+▶️ **[Watch Cloud_Resume_Scanner_AWS_Demo](https://drive.google.com/file/d/1tVTCk2iXqrCtr_j6ypMCcwgYBRTTchy-/view?usp=sharing)**
 
 ---
 
