@@ -1,6 +1,6 @@
 # ☁️ Cloud-Based Resume Scanner and Job Matcher
 
-A scalable cloud platform that enables users to upload resumes, automatically extract candidate information using **Amazon Textract**, and match skills and experience to job listings stored in an **Amazon RDS (MS-SQL)** database.  
+A scalable cloud platform that enables users to upload resumes, automatically extract candidate information using **Amazon Textract**, and match skills and experience to job listings stored in an **Amazon RDS** database.  
 The system uses **AWS Lambda** for serverless compute, **API Gateway** for API management, and provides secure access, monitoring, and analytics via AWS services.
 
 ---
